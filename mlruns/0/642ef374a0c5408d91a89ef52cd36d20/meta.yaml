@@ -1,0 +1,15 @@
+artifact_uri: file:///home/ubuntu/lung-cancer-random-forest/mlruns/0/642ef374a0c5408d91a89ef52cd36d20/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 642ef374a0c5408d91a89ef52cd36d20
+run_name: smiling-fowl-109
+run_uuid: 642ef374a0c5408d91a89ef52cd36d20
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1710848654863
+status: 1
+tags: []
+user_id: ubuntu
